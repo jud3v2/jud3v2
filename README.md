@@ -30,6 +30,6 @@ I am Judikaël Bellance, currently pursuing my bachelor's degree majoring in com
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jud3v.jud3v)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jud3v&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jud3v2&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jud3v2&hide=TeX&layout=compact)
