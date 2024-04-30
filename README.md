@@ -1,5 +1,3 @@
-## Nice to see you here ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
 <h1 align="center">Hi 👋, I'm Judikaël Bellance</h1>
 <h3 align="center">A passionate full-stack developer from French country.</h3>
 
@@ -39,9 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jud3v2&show_icons=true&locale=en" alt="jud3v2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jud3v2&" alt="jud3v2" /></p>
-
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jud3v&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jud3v2&hide=TeX&layout=compact)
