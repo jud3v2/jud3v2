@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Judikaël Bellance</h1>
 <h3 align="center">A passionate full-stack developer from French country.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jud3v2&label=Profile%20views&color=0e75b6&style=flat" alt="jud3v2" /> </p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jud3v.jud3v)
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jud3v2" alt="jud3v2" /></a> </p>
 
