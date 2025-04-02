@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full-stack developer from French country.</h3>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jud3v.jud3v)
- 
+
+ <a href="https://app.daily.dev/jud3v"><img src="https://api.daily.dev/devcards/v2/G7RBXoidcv9jOaJ7UgBSC.png?type=wide&r=ym8" width="652" alt="Jud3v Digital's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jud3v2" alt="jud3v2" /></a> </p>
 
