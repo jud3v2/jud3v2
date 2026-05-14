@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **judikaelbellance@icloud.com**
 
-- 📄 Know about my experiences [https://jud3v.fr/about](https://jud3v.fr/about)
+- 📄 Know about my experiences [https://agency.jud3v.fr/about](https://agency.jud3v.fr/about)
 
 - ⚡ Fun fact **I think I am Funny**
 
