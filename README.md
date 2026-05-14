@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [https://github.com/jud3v2](https://github.com/jud3v2)
 
-- 👨‍💻 All of my projects are available at [https://jud3v.fr](https://jud3v.fr)
+- 👨‍💻 All of my projects are available at [https://agency.jud3v.fr](https://agency.jud3v.fr)
 
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
 
