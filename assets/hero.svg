@@ -243,11 +243,16 @@
       <rect x="-50" y="-16" width="20" height="44" rx="10" fill="#e9edf8" stroke="#b8c0dc" stroke-width="1.5" transform="rotate(18 -40 -12)"/>
       <circle cx="-52" cy="28" r="10" fill="#aeb8d6"/>
     </g>
-    <!-- waving arm -->
-    <g>
-      <animateTransform attributeName="transform" type="rotate" values="-10 34 -14;-45 34 -14;-10 34 -14" dur="1.6s" repeatCount="indefinite"/>
-      <rect x="30" y="-58" width="20" height="46" rx="10" fill="#e9edf8" stroke="#b8c0dc" stroke-width="1.5"/>
-      <circle cx="40" cy="-60" r="10.5" fill="#aeb8d6"/>
+    <!-- waving arm: upper arm angled out from the shoulder, forearm waves from the elbow -->
+    <g transform="translate(30 -12) rotate(50)">
+      <g transform="translate(0 -26)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="-62;-28;-62" dur="1.4s" repeatCount="indefinite"/>
+          <rect x="-9" y="-36" width="18" height="40" rx="9" fill="#e9edf8" stroke="#b8c0dc" stroke-width="1.5"/>
+          <circle cx="0" cy="-38" r="10.5" fill="#aeb8d6"/>
+        </g>
+      </g>
+      <rect x="-10" y="-34" width="20" height="40" rx="10" fill="#e9edf8" stroke="#b8c0dc" stroke-width="1.5"/>
     </g>
     <!-- helmet -->
     <line x1="14" y1="-86" x2="22" y2="-104" stroke="#b8c0dc" stroke-width="2"/>
