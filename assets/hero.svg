@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" aria-label="Judikael Bellance - Full-stack developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b2e"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="0.5" stop-color="#bb9af7"/>
+      <stop offset="1" stop-color="#7dcfff"/>
+      <animate attributeName="x1" values="0;-0.6;0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0.4;1" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="blobA">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobB">
+      <stop offset="0" stop-color="#bb9af7" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#bb9af7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#7aa2f7" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect x="0" y="0" width="1200" height="340" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+
+    <!-- drifting light blobs -->
+    <circle cx="180" cy="90" r="260" fill="url(#blobA)">
+      <animate attributeName="cx" values="180;260;180" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="90;150;90" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1040" cy="260" r="300" fill="url(#blobB)">
+      <animate attributeName="cx" values="1040;960;1040" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="260;190;260" dur="13s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- floating particles -->
+    <g fill="#7dcfff">
+      <circle cx="90" cy="60" r="2"><animate attributeName="cy" values="60;20;60" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/></circle>
+      <circle cx="260" cy="300" r="1.5"><animate attributeName="cy" values="300;250;300" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.2;1" dur="6s" repeatCount="indefinite"/></circle>
+      <circle cx="520" cy="40" r="2.5"><animate attributeName="cy" values="40;80;40" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;0.9;0.3" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="700" cy="310" r="1.5"><animate attributeName="cy" values="310;270;310" dur="4.5s" repeatCount="indefinite"/></circle>
+      <circle cx="1120" cy="70" r="2"><animate attributeName="cy" values="70;30;70" dur="5.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;1;0.2" dur="5.5s" repeatCount="indefinite"/></circle>
+      <circle cx="960" cy="40" r="1.5"><animate attributeName="cy" values="40;100;40" dur="8s" repeatCount="indefinite"/></circle>
+      <circle cx="400" cy="200" r="1.5"><animate attributeName="cy" values="200;160;200" dur="6.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.4;1;0.4" dur="6.5s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- rotating code emblem -->
+    <g transform="translate(150 170)">
+      <circle r="78" fill="none" stroke="#7aa2f7" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="6 10">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="58" fill="none" stroke="#bb9af7" stroke-opacity="0.5" stroke-width="1.5" stroke-dasharray="120 300">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <text x="0" y="14" text-anchor="middle" font-family="'Fira Code', ui-monospace, monospace" font-size="40" font-weight="700" fill="#7aa2f7">
+        {&#8239;}
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2.4s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- title block -->
+    <g font-family="'Inter', 'Segoe UI', Helvetica, Arial, sans-serif">
+      <g>
+        <animate attributeName="opacity" values="0;1" dur="0.9s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 18;0 0" dur="0.9s" fill="freeze"/>
+        <text x="300" y="150" font-size="62" font-weight="800" fill="url(#title)" letter-spacing="-1">Judikael Bellance</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="0.5s" dur="0.9s" fill="freeze"/>
+        <text x="302" y="196" font-size="22" font-weight="500" fill="#c0caf5">Full-stack developer · Epitech · France</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="0.9s" dur="0.9s" fill="freeze"/>
+        <text x="302" y="236" font-family="'Fira Code', ui-monospace, monospace" font-size="17" fill="#9ece6a">
+          &gt; Rust · PHP · React · Next.js · Symfony
+        </text>
+      </g>
+    </g>
+
+    <!-- status pill -->
+    <g transform="translate(302 262)">
+      <rect width="210" height="34" rx="17" fill="#7aa2f7" fill-opacity="0.12" stroke="#7aa2f7" stroke-opacity="0.4"/>
+      <circle cx="18" cy="17" r="5" fill="#9ece6a">
+        <animate attributeName="r" values="4;7;4" dur="1.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="34" y="22" font-family="'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#c0caf5">Open to collaboration</text>
+    </g>
+  </g>
+</svg>

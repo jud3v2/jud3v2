@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Judikael%20Bellance&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20Epitech%20%C2%B7%20France&descAlignY=60&descSize=20" alt="Judikael Bellance banner" width="100%"/>
+<img src="assets/hero.svg" alt="Judikael Bellance - animated banner" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=760&lines=Full-stack+developer+building+web+%26+mobile;Rust+%C2%B7+PHP+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Symfony;Turning+ideas+into+clean%2C+shipped+products" alt="Typing animation" /></a>
 
@@ -44,6 +44,8 @@
 
 <br/>
 
+<img src="assets/divider.svg" alt="" width="100%"/>
+
 <div align="center">
 
 ## 🧰 Tech Stack
@@ -72,6 +74,8 @@
 </div>
 
 <br/>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -104,6 +108,8 @@
 </div>
 
 <br/>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
