@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" alt="Judikael Bellance - animated banner" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=760&lines=Full-stack+developer+building+web+%26+mobile;Rust+%C2%B7+PHP+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Symfony;Turning+ideas+into+clean%2C+shipped+products" alt="Typing animation" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=760&lines=%F0%9F%9A%80+Houston%2C+we+have+a+full-stack+developer;Exploring+the+web+%26+mobile+galaxy;Rust+%C2%B7+PHP+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Symfony;Shipping+clean+products+to+orbit" alt="Typing animation" /></a>
 
 <br/>
 
@@ -19,7 +19,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👋 About me
+### 🧑‍🚀 About the astronaut
 
 - 🇫🇷 Full-stack developer from France
 - 🎓 Student at [Epitech](https://www.epitech.eu/)
@@ -31,7 +31,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🔭 Currently
+### 🛰️ Current mission
 
 - 🌱 Learning **Rust**, **Java** and **Python**
 - 🧱 Building projects on [agency.jud3v.fr](https://agency.jud3v.fr)
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-## 🧰 Tech Stack
+## 🚀 Tech arsenal
 
 ### Frontend
 
@@ -77,33 +77,22 @@
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-## 📊 GitHub Stats
+## 📡 Telemetry
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jud3v2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="48%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jud3v2&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jud3v2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  <img width="48%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jud3v2&layout=compact&theme=default&hide_border=true&langs_count=8"/>
-</picture>
+<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jud3v2&show_icons=true&include_all_commits=true&count_private=true&bg_color=0b0e1a&title_color=bb9af7&icon_color=7dcfff&text_color=c0caf5&ring_color=bb9af7&hide_border=true"/>
+<img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jud3v2&layout=compact&langs_count=8&bg_color=0b0e1a&title_color=bb9af7&icon_color=7dcfff&text_color=c0caf5&ring_color=bb9af7&hide_border=true"/>
 
-<br/>
+<img width="80%" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=jud3v2&hide_border=true&background=0B0E1A&ring=BB9AF7&fire=FF79C6&currStreakNum=7DCFFF&sideNums=C0CAF5&sideLabels=7DCFFF&currStreakLabel=BB9AF7&dates=8A93B5&stroke=1F2547"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jud3v2&theme=tokyonight&hide_border=true"/>
-  <img width="75%" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=jud3v2&theme=default&hide_border=true"/>
-</picture>
-
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=jud3v2&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jud3v2&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="90%"/>
+<img width="96%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jud3v2&bg_color=0b0e1a&color=c0caf5&line=bb9af7&point=7dcfff&area=true&area_color=bb9af7&title_color=bb9af7&hide_border=true"/>
 
 </div>
 
@@ -113,7 +102,7 @@
 
 <div align="center">
 
-## 🤝 Let's connect
+## 🌌 Open a comms channel
 
 <a href="https://agency.jud3v.fr"><img src="https://img.shields.io/badge/Portfolio-agency.jud3v.fr-7AA2F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
@@ -128,6 +117,7 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jud3v.jud3v" alt="Visitor Badge"/>
 
-<sub>Thanks for stopping by ✨</sub>
 
 </div>
+
+<img src="assets/footer.svg" alt="Thanks for visiting - see you among the stars" width="100%"/>
